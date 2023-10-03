@@ -1,0 +1,17 @@
+ota_update.c:30:6:toggleBankAndReset	32	static
+ota_update.c:63:10:get_Active_Bank_no	16	static
+ota_update.c:73:6:sendHeartbeat	16	static
+ota_update.c:90:6:bootloader_handle_gethelp_cmd	16	static
+ota_update.c:102:6:bootloader_handle_getver_cmd	16	static
+ota_update.c:115:6:bootloader_handle_go_cmd	32	static
+ota_update.c:156:6:bootloader_handle_flash_erase_cmd	24	static
+ota_update.c:178:6:bootloader_handle_mem_write_size_cmd	16	static
+ota_update.c:184:6:bootloader_handle_mem_write_address_cmd	16	static
+ota_update.c:191:6:bootloader_handle_mem_write_data_cmd	16	static
+ota_update.c:214:6:bootloader_can_read_data	8	static
+ota_update.c:244:6:bootloader_can_write_data	24	static
+ota_update.c:253:9:get_app_version	4	static
+ota_update.c:258:9:verify_address	16	static
+ota_update.c:276:9:execute_flash_erase	48	static
+ota_update.c:320:9:execute_mem_write	24	static
+ota_update.c:341:9:UpdateAPP	16	static
